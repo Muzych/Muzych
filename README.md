@@ -6,7 +6,7 @@
 ### About me
 - 🔭 I’m an Indie Hacker.
 - 🌱 I’m currently learning  React.
-- 🤔 I’m looking for help with CG.
+- 🤔 I’m looking for help with Computer Graphics and Deep Learning.
 - ⚽ I love Arsenal.
 - 💬 You could ask me anything.
 
@@ -19,6 +19,7 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/github/explore/raw/main/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/github/explore/raw/main/topics/github/github.png" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/raw/main/topics/linux/linux.png" />
+<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/raw/main/topics/react/react.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" />
 
 <br/>
