@@ -19,7 +19,8 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/github/explore/raw/main/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/github/explore/raw/main/topics/github/github.png" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/raw/main/topics/linux/linux.png" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/raw/main/topics/react/react.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/github/explore/raw/main/topics/react/react.png" />
+<img align="left" alt="Astro" width="26px" src="https://github.com/github/explore/raw/main/topics/astro/astro.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" />
 
 <br/>
