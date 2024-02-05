@@ -32,6 +32,7 @@
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Muzych" width="26px" style="{fill: green;}" />](https://t.me/Muzy_ch)
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Muzych" width="26px" />](mailto:haxk1024@gmail.com)
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Muzych" width="26px" />](https://twitter.com/1Haxk4541)
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="Muzych" width="26px" />](https://mastodon.social/@Muzych)
 <br/>
 
 ---
