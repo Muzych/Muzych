@@ -38,8 +38,8 @@
 ---
 
 ### I write sth here:
-[我的个人主页](https://portfolio-li0329.vercel.app/)
-[我的部落格](https://blog-1dk.pages.dev/)
+[My Portfolio](https://portfolio-li0329.vercel.app/)
+[My Blog](https://muziyan.icu/)
 
 ---
 
