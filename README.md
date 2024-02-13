@@ -12,17 +12,9 @@
 
 ---
 ### Languages and Tools
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" />
-<img align="left" alt="C++" width="26px" src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" />
 <img align="left" alt="python" width="26px" src="https://github.com/github/explore/raw/main/topics/python/python.png" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/github/explore/raw/main/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/github/explore/raw/main/topics/github/github.png" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/raw/main/topics/linux/linux.png" />
 <img align="left" alt="React" width="26px" src="https://github.com/github/explore/raw/main/topics/react/react.png" />
-<img align="left" alt="Astro" width="26px" src="https://github.com/github/explore/raw/main/topics/astro/astro.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" />
-
+<img align="left" alt="Golang" width="26px" src="https://github.com/github/explore/raw/main/topics/go/go.png" />
 <br/>
 <br/>
 
