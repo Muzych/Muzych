@@ -7,7 +7,7 @@
 - 🔭 I’m an Indie Hacker.
 - 🌱 I’m currently learning  React.
 - 🤔 I’m looking for help with Computer Graphics and Deep Learning.
-- ⚽ I love Arsenal & Lana Del ray.
+- ⚽ I love Arsenal & Lana Del Rey.
 - 💬 You could ask me anything.
 
 ---
