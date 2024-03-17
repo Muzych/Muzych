@@ -33,7 +33,7 @@
 - [My Portfolio](https://portfolio.muziyan.icu/)
 - [My Blog](https://muziyan.icu/)
 - [My Clip](https://clip.muziyan.icu/)
-- [My Wiki]-(https://wiki.muziyan.icu/)
+- [My Wiki](https://wiki.muziyan.icu/)
 ---
 
 <picture decoding="async" loading="lazy">
