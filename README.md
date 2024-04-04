@@ -10,14 +10,6 @@
 - 💬 You could ask me anything.
 
 ---
-### Languages and Tools
-<img align="left" alt="python" width="26px" src="https://github.com/github/explore/raw/main/topics/python/python.png" />
-<img align="left" alt="React" width="26px" src="https://github.com/github/explore/raw/main/topics/react/react.png" />
-<img align="left" alt="Golang" width="26px" src="https://github.com/github/explore/raw/main/topics/go/go.png" />
-<br/>
-<br/>
-
----
 
 ### Connect with me:
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Muzych" width="26px" style="{fill: green;}" />](https://t.me/Muzy_ch)
