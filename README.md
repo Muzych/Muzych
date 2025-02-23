@@ -1,8 +1,4 @@
-Here is my [memos](https://memo.muziyan.icu)
-
-Here is my [Blog](https://blog.muziyancheng.com)
-
-And these are repos that I created  <br/>
+These are repos that I created  <br/>
 <!-- BEGIN:created_repos -->
 | No.   | Name                                       | Language | Stars | Forks | Last Update |
 |-------|--------------------------------------------|----------|-------|-------|-------------|
