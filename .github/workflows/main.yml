@@ -10,18 +10,29 @@ jobs:
     runs-on: ubuntu-latest
     name: Update README
     steps:
-      - uses: actions/checkout@v3
-      - name: Download github-contrib-stats
-        uses: robinraju/release-downloader@v1.8
+      - uses: actions/checkout@v4
+
+      - name: Checkout github-contrib-stats
+        uses: actions/checkout@v4
         with:
           repository: j178/github-contrib-stats
-          latest: true
-          fileName: "github-contrib-stats*.tar.gz"
-          extract: true
+          ref: b6efdd483ecfa2927d6e2204fe389929fa61d50b
+          path: .github-contrib-stats
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: .github-contrib-stats
+
+      - name: Build github-contrib-stats
+        run: cargo install --path .github-contrib-stats/cli --locked
+
       - name: Update stats
-        run: ./github-contrib-stats -u ${{ github.repository_owner }} --update README.md
+        run: github-contrib-stats -u ${{ github.repository_owner }} --update README.md
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+
       - name: Commit files
         run: |
           if git diff --quiet; then
